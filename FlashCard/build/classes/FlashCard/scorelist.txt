@@ -1,0 +1,21 @@
+Question: By what initials was Franklin Roosevelt better known?, Input: , You are wrong, The answer is FDR
+Question: Which number president was Franklin Roosevelt?, Input: , You are wrong, The answer is 32
+Question: Which state was Franklin Roosevelt born in?, Input: , You are wrong, The answer is New York
+Question: In which year did Roosevelt become Governor of New York?, Input: , You are wrong, The answer is 1929
+Question: What was the name of Franklin Roosevelt's wife?, Input: , You are wrong, The answer is Eleanor
+Question: How many children did Franklin Roosevelt have?, Input: , You are wrong, The answer is 6
+Question: From which university did Franklin Roosevelt graduate with an A.B in history?, Input: , You are wrong, The answer is Harvard
+Question: What was the first name of Franklin Roosevelt's 5th cousin, who was also President?, Input: , You are wrong, The answer is Theodore
+Question: Which disease is believed to be the causes of Franklin Roosevelt's paralysis?, Input: , You are wrong, The answer is Polio
+Question: At what age did Franklin Roosevelt die?, Input: , You are wrong, The answer is 63
+Score: 0.0, Number of questions asked: 10.0, Percentage: 0.0%Question: By what initials was Franklin Roosevelt better known?, Input: , You are wrong, The answer is FDR
+Question: Which number president was Franklin Roosevelt?, Input: 32, You are correct!
+Question: Which state was Franklin Roosevelt born in?, Input: , You are wrong, The answer is New York
+Question: In which year did Roosevelt become Governor of New York?, Input: , You are wrong, The answer is 1929
+Question: What was the name of Franklin Roosevelt's wife?, Input: , You are wrong, The answer is Eleanor
+Question: How many children did Franklin Roosevelt have?, Input: , You are wrong, The answer is 6
+Question: From which university did Franklin Roosevelt graduate with an A.B in history?, Input: , You are wrong, The answer is Harvard
+Question: What was the first name of Franklin Roosevelt's 5th cousin, who was also President?, Input: , You are wrong, The answer is Theodore
+Question: Which disease is believed to be the causes of Franklin Roosevelt's paralysis?, Input: , You are wrong, The answer is Polio
+Question: At what age did Franklin Roosevelt die?, Input: , You are wrong, The answer is 63
+Score: 1.0, Number of questions asked: 10.0, Percentage: 10.0%
