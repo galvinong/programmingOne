@@ -20,3 +20,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/
+ATM/build/classes/atm/
+ATM/test/
+FlashCard/build/empty/
+FlashCard/build/generated-sources/
+FlashCard/test/
+Hash/build/classes/hash/
+Hash/build/classes/hash2/
+Hash/test/
+SmartCard/test/
+Tester/build/classes/tester/
+Tester/test/
+Zoo Extended/test/
+Zoo/test/
+bank/build/classes/bank/
+bank/test/
